@@ -1,7 +1,7 @@
 ﻿beautifulsoup4==4.7.1
 bs4==0.0.1
 numpy==1.16.2
-opencv-contrib-python==4.0.0.21
+opencv-contrib-python==4.2.0.32
 opencv-python==4.0.0.21
 Pillow==5.4.1
 selenium==3.141.0
