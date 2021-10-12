@@ -2,7 +2,7 @@
 bs4==0.0.1
 numpy==1.16.2
 opencv-contrib-python==4.0.0.21
-opencv-python==4.0.0.21
+opencv-python==4.2.0.32
 Pillow==5.4.1
 selenium==3.141.0
 soupsieve==1.8
